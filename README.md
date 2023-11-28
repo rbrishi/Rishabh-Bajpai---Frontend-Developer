@@ -1,10 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 # SpaceX Info Project
 
-Excited to share my recent ReactJS project SpaceX Info! I'm thrilled to showcase my latest ReactJS project that I've been working on for the past few days. 🎉 The goal was to create a dynamic and user-friendly web application.
+Excited to share my recent ReactJS project SpaceX Info! This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 🎉 The goal was to create a dynamic and user-friendly web application.
 
 ## Tech Stack
 
